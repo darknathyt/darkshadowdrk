@@ -1,0 +1,21 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "darknath",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "discord-level": "^1.0.0",
+    "discord.js": "^12.5.3",
+    "humanize-duration": "^3.25.1",
+    "lowdb": "^1.0.0",
+    "moment": "^2.29.1",
+    "monent": "0.0.2-security",
+    "parse-duration": "^1.0.0"
+  }
+}
